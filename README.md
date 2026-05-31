@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Helison+Dias+%F0%9F%91%8B;Frontend+Developer;E-commerce+Specialist;React+%2B+Next.js+%2B+TypeScript)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Helison%20Dias&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descColor=c4b5fd" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=helisondias07&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/helisondias07)
 
@@ -32,16 +32,12 @@ Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=helisondias07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=helisondias07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide=issues&hide_rank=false" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helisondias07&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=helisondias07&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=helisondias07&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=helisondias07&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -51,3 +47,7 @@ Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia 
 - 🛒 **E-commerce** — 10+ lojas publicadas na Wake Platform com React, Next.js e Scriban
 - ⚡ **Integrações REST** — listagens dinâmicas, filtros em tempo real e fluxos de checkout
 - 🤖 **IA no workflow** — uso diário de Claude Code e Codex CLI para automações e refatoração
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" width="100%"/>
