@@ -1,9 +1,19 @@
-﻿# Olá, sou Helison Dias 👋
+﻿<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Helison+Dias+%F0%9F%91%8B;Frontend+Developer;E-commerce+Specialist;React+%2B+Next.js+%2B+TypeScript)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=helisondias07&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/helisondias07)
 
 Desenvolvedor **Frontend** focado em e-commerce e experiências web de alta performance.
 Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia para acelerar entregas.
 
-Baseado em **Nova Friburgo, RJ** · Disponível para oportunidades Júnior-Pleno · Remoto
+**Nova Friburgo, RJ** · Disponível para oportunidades Júnior-Pleno · Remoto
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://helisondias.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/helisondias)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helisondias07@gmail.com)
+
+</div>
 
 ---
 
@@ -15,15 +25,24 @@ Baseado em **Nova Friburgo, RJ** · Disponível para oportunidades Júnior-Pleno
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=helisondias07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helisondias07&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=helisondias07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helisondias07&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=helisondias07&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=helisondias07&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
 ---
 
@@ -32,11 +51,3 @@ Baseado em **Nova Friburgo, RJ** · Disponível para oportunidades Júnior-Pleno
 - 🛒 **E-commerce** — 10+ lojas publicadas na Wake Platform com React, Next.js e Scriban
 - ⚡ **Integrações REST** — listagens dinâmicas, filtros em tempo real e fluxos de checkout
 - 🤖 **IA no workflow** — uso diário de Claude Code e Codex CLI para automações e refatoração
-
----
-
-## 📫 Contato
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://helisondias.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/helisondias)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helisondias07@gmail.com)
