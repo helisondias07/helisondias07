@@ -4,10 +4,10 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=helisondias07&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/helisondias07)
 
-Desenvolvedor **Frontend** focado em e-commerce e experiências web de alta performance.
+Desenvolvedor **Frontend** focado em e-commerce e experiÃªncias web de alta performance.
 Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia para acelerar entregas.
 
-**Nova Friburgo, RJ** · Disponível para oportunidades Júnior-Pleno · Remoto
+**Nova Friburgo, RJ** Â· DisponÃ­vel para oportunidades JÃºnior-Pleno Â· Remoto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://helisondias.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/helisondias)
@@ -17,7 +17,7 @@ Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia 
 
 ---
 
-## ??? Stack principal
+## ğŸ› ï¸ Stack principal
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -29,15 +29,19 @@ Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia 
 
 ---
 
-## ?? GitHub Stats
+## ğŸ“Š GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helisondias07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide=issues,contribs&show=reviews,discussions_started" />
+  <img src="https://github-readme-stats.vercel.app/api?username=helisondias07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide=issues" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=helisondias07&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
 
-## ?? Contribuições
+## ğŸ ContribuiÃ§Ãµes
 
 <div align="center">
   <picture>
@@ -49,13 +53,12 @@ Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia 
 
 ---
 
-## ?? Projetos em destaque
+## ğŸš€ Projetos em destaque
 
-- ?? **E-commerce** — 10+ lojas publicadas na Wake Platform com React, Next.js e Scriban
-- ? **Integrações REST** — listagens dinâmicas, filtros em tempo real e fluxos de checkout
-- ?? **IA no workflow** — uso diário de Claude Code e Codex CLI para automações e refatoração
+- ğŸ›’ **E-commerce** â€” 10+ lojas publicadas na Wake Platform com React, Next.js e Scriban
+- âš¡ **IntegraÃ§Ãµes REST** â€” listagens dinÃ¢micas, filtros em tempo real e fluxos de checkout
+- ğŸ¤– **IA no workflow** â€” uso diÃ¡rio de Claude Code e Codex CLI para automaÃ§Ãµes e refatoraÃ§Ã£o
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" width="100%"/>
-
