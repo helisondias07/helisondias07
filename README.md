@@ -4,10 +4,10 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=helisondias07&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/helisondias07)
 
-Desenvolvedor **Frontend** focado em e-commerce e experiências web de alta performance.
-Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia para acelerar entregas.
+Dev **Frontend** com ~3 anos de experiência em React, Next.js e TypeScript. Já coloquei **10+ lojas e-commerce** (Wake Platform) em produção.
+Hoje estudo **IA aplicada**: RAG, avaliação de LLMs (evals) e automações com n8n. Testo com Jest, Vitest e Playwright.
 
-**Nova Friburgo, RJ** · Disponível para oportunidades Júnior-Pleno · Remoto
+**Nova Friburgo, RJ** · Aberto a vagas remotas
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://helisondias.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/helisondias)
@@ -51,9 +51,15 @@ Trabalho com React, Next.js, TypeScript e Wake Platform, usando IA no dia a dia 
 
 ## 🚀 Projetos em destaque
 
-- 🛒 **E-commerce** — 10+ lojas publicadas na Wake Platform com React, Next.js e Scriban
-- ⚡ **Integrações REST** — listagens dinâmicas, filtros em tempo real e fluxos de checkout
-- 🤖 **IA no workflow** — uso diário de Claude Code e Codex CLI para automações e refatoração
+| Projeto | O que é | Stack |
+|---|---|---|
+| 🔭 [**rag-evals-nextjs**](https://github.com/helisondias07/rag-evals-nextjs) *(em construção)* | Assistente de documentação técnica com RAG, citação de fontes e **evals de qualidade de LLM no CI** | Next.js · TS · embeddings |
+| 🛒 [**supfy-mvp**](https://github.com/helisondias07/supfy-mvp) | Pedidos de WhatsApp viram pedidos estruturados e validados por catálogo central · [demo](https://supfy-mvp.vercel.app) | Next.js · TS |
+| 🎬 [**webcine**](https://github.com/helisondias07/webcine) | Assistir vídeos em sincronia com amigos, com salas, chat e WebRTC | React · Node · Socket.IO |
+| 📈 [**meliuz-case**](https://github.com/helisondias07/meliuz-case) | Análise automatizada de testes A/B de cashback (case Méliuz) · [demo](https://meliuz-case.vercel.app) | Python |
+| 🧪 [**rick-morty-wiki**](https://github.com/helisondias07/rick-morty-wiki) | Desafio técnico front-end com busca, filtros e dark/light mode · [demo](https://rick-morty-wiki-steel-delta.vercel.app) | React · TS |
+
+**No trabalho:** 10+ lojas na Wake Platform (React, Next.js, Scriban), integrações REST, filtros em tempo real, checkout e automações com n8n e IA (Claude Code, Codex CLI).
 
 ---
 
